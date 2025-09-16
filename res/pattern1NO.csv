@@ -1,0 +1,8 @@
+timestamp,user_id,interaction_id
+2025-08-26 12:00:00.100,1,click_button
+2025-08-26 12:00:00.400,1,click_button
+2025-08-26 12:00:01.200,1,click_button
+2025-08-26 12:00:02.500,2,click_link
+2025-08-26 12:00:02.900,2,click_link
+2025-08-26 12:00:04.000,3,click_menu
+2025-08-26 12:00:04.300,3,click_menu

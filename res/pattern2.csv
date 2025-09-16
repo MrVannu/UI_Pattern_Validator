@@ -1,0 +1,10 @@
+timestamp,user_id,field_id,input_value
+2025-08-26 12:10:00,1,city,Rome
+2025-08-26 12:10:01,2,city,Milan
+2025-08-26 12:10:02,3,city,Paris
+2025-08-26 12:10:03,4,city,London
+2025-08-26 12:10:04,5,city,Berlin
+2025-08-26 12:10:05,6,city,Madrid
+2025-08-26 12:10:06,7,city,Prague
+2025-08-26 12:10:07,8,city,New York
+2025-08-26 12:10:08,9,city,Tokyo

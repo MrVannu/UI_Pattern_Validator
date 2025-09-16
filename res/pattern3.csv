@@ -1,0 +1,10 @@
+timestamp,user_id,screen_id,config_key,config_value
+2025-08-26 12:10:00,1,home,theme,dark
+2025-08-26 12:10:01,1,home,theme,light
+2025-08-26 12:10:02,2,home,theme,light
+2025-08-26 12:10:03,2,home,theme,dark
+2025-08-26 12:10:04,3,home,theme,blue
+2025-08-26 12:10:05,3,home,theme,light
+2025-08-26 12:10:06,4,home,theme,green
+2025-08-26 12:10:07,4,home,theme,dark
+2025-08-26 12:10:08,5,home,theme,light
